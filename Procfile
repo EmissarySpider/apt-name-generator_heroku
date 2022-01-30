@@ -1,1 +1,1 @@
-web: gunicorn app:apt-name-generator_heroku
+web: gunicorn app:apt-name-generator_heroku.py
