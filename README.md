@@ -1,7 +1,7 @@
 # apt-name-generator_heroku
 Roll a randomly generated advanced persistent threat (APT) group name.
 
-Visit the generator at https://apt-name-generator.herokuapp.com/
+Visit the generator at https://apt-name.com
 
 We all know about the 500 Pandas and 50 Bears. Where do these names come from? Well, some researchers have documented that and that's not why this script exists.
 
@@ -24,6 +24,9 @@ Example Rolls:
 - Domestic Team
 - GOSSIP Eyes
 - Labyrinth Spy
+- Copy Fox
+- Refined Reaper
+- Caliphate Dukes
 
 Ported to Heroku in lieu of mandating CLI for APT funsies. 
 
